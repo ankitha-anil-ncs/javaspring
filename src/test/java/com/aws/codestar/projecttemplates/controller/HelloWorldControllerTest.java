@@ -16,7 +16,6 @@ public class HelloWorldControllerTest {
 
     private static final String EXPECTED_SITE_NAME = "home";
     private static final String EXPECTED_VIEW_NAME = "index";
-    private static final String EXPECTED_RESOURCE_VALUE = "Hello AWS CodeStar!!"
 
     private HelloWorldController helloWorldController = new HelloWorldController(EXPECTED_SITE_NAME);
 
