@@ -6,3 +6,4 @@ EXPOSE 8080
 
 CMD ["catalina.sh", "run"]
 
+EXPECTED_RESOURCE_VALUE = "Hello AWS CodeStar!!"
